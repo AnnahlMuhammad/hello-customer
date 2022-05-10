@@ -1,0 +1,17 @@
+{
+    "name": "annahl/hello-customer",
+    "description": "library sederhana hello customer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Annahl\\HelloCustomer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Annahl Muhammad",
+            "email": "annahl@gmail.com"
+        }
+    ],
+    "require": {}
+}
